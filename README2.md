@@ -1,8 +1,10 @@
+# Love Running
+
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
 
-To do this project I had 3 choices in mind a DIY website, Helpline Website, ad lastly Donegal Best Beaches. The reason I choose the Donegal Famous beaches i found that mant people were not aware of how beautiful the coastal drive is and housing beautiful oustanding baeches athat rank higher in the world. I love taking my family to the beach so one time i tried to find baeches in donegaland it wasnt an easy find. Thi website idea isto help people who love ourdoors, adventure, nature and families to be able to view and have info in regard to nearest lovely beaches.
+For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Website Link ]<https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
+![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
@@ -12,26 +14,26 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - The navigation bar which is fully responsive includes links to Home , Famous, About Us and the Upload page and all links are the same on every page enabling an easy flow when the user is on the website.
-  - Added too to each pages is back top button link on the right bottom corner easy scroll back to the top of the page.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar]https://github(.com)
+![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The Home Page__
+- __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
-![Home Page](https://github.com/...)
+![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __About Us__
+- __Club Ethos Section__
 
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
 
-![Club Ethos](https://github.com/..)
+![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Famous__
+- __Meetup Times section__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
@@ -45,13 +47,18 @@ In this section, you should go over the different parts of your project, and des
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Upload__
+- __Gallery__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
+- __The Sign Up Page__
+
+  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -75,10 +82,13 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 
 - HTML
-  
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ### Unfixed Bugs
 
+You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
@@ -89,9 +99,14 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://lishamhlanga.github.io/Donegal-Famous-Beaches/
+The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+
 
 ## Credits 
+
+In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+
+You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ### Content 
 
@@ -123,46 +138,3 @@ Below you will find a couple of extra tips that may be helpful when completing y
   - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
 
 Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
-
-
-
-
-
-
-
-
-
-# Website name - Donegal Famous Beaches
-
-Website link
-
-# Structure
-
-# Technologies used
-
-#
-
-# Problems Encountered
-
-# Credit to the following:    
-Images- Unsplash
-    .Brian Kelly
-licensed for reuse under this  Licence https://creativecommons.org/licenses/by-sa/2.0/#_blank
-
-    https://www.theirishroadtrip.com/best-beaches-in-donegal/
-
-
-# Future Updates
-
-. This website have still a lot to be implemented.
-. the famous page to have the following
-    1. categories of counties ,Donegal, Cork ,etc
-    2. visitors can select different counties and view the best beaches of each county
-    3. to add videos onto the page
-    4. to add panaromic view like 360, where by they can view the beach like in real
-    5
-    6
-More pages for read more from the clicked links to a more detailed page with more info
-privacy page for beach visitors
-links to helpline and phone numbers
-page with real live update in terms of forecast and safety
