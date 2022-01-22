@@ -1,4 +1,4 @@
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+This website is for everyone who love adventure, outgoing, family out, .Audience is all ages .
 
 To do this project I had 3 choices in mind a DIY website, Helpline Website, ad lastly Donegal Best Beaches. The reason I choose the Donegal Famous beaches i found that mant people were not aware of how beautiful the coastal drive is and housing beautiful oustanding baeches athat rank higher in the world. I love taking my family to the beach so one time i tried to find baeches in donegaland it wasnt an easy find. Thi website idea isto help people who love ourdoors, adventure, nature and families to be able to view and have info in regard to nearest lovely beaches.
 
