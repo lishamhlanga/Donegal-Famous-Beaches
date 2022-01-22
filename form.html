@@ -1,43 +1,150 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Famous Beaches a must to visit in Donegal, Ireland">
-  <meta name="keyword" content="famous beaches donegal,beaches, famous beaches, wild antlantic way, Ireland, donegal">
-  <link rel="stylesheet" href="assets/css/style.css">
-  <!-- icon library -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css"></link>
-  <title>Home</title>
-</head>
-<body>
-  <div>
-    <a
-    id="top">
-    </a>
-  </div>
-  <!-- header content -->
-  <header class="primary-header">
-    <div class="menu-bar">
-      <h1 class="beaches-logo">
-        <a href="index.html"><img src="assets/images/donegal-beaches-logo.png" alt="Donegal Famous Beaches"></a>
-      </h1>
-      <nav class="menu-nav">
-        <ul class="menu-nav-list">
-          <li>
-            <a href="index.html">Home</a>
-          </li>
-          <li>
-            <a href="about-us.html">About Us</a>
-          </li>
-          <li>
-            <a href="famous.html">Famous</a>
-          </li>
-          <li>
-            <a href="form.html">Upload</a>
-          </li>
-        </ul>
-      </nav>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Famous Beaches a must to visit in Donegal, Ireland">
+    <meta name="keyword" content="famous beaches donegal,beaches, famous beaches, wild antlantic way, Ireland, donegal">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css">
+    </link>
+    <title>Home</title>
+  </head>
+
+  <body>
+    <div>
+      <a id="top"></a>
     </div>
-  </header>
+    <!-- header content -->
+    <header class="primary-header">
+      <div class="menu-bar">
+        <h1 class="beaches-logo">
+          <a href="index.html"><img src="assets/images/donegal-beaches-logo.png" alt="Donegal Famous Beaches"></a>
+        </h1>
+        <nav class="menu-nav">
+          <ul class="menu-nav-list">
+            <li>
+              <a href="index.html">Home</a>
+            </li>
+            <li>
+              <a href="about-us.html">About Us</a>
+            </li>
+            <li>
+              <a href="famous.html">Famous</a>
+            </li>
+            <li>
+              <a href="form.html">Upload</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <header class="primary-header">
+      <div class="menu-bar">
+        <h1 class="beaches-logo">
+          <a href="index.html"><img src="assets/images/donegal-beaches-logo.png" alt="Donegal Famous Beaches"></a>
+        </h1>
+        <nav class="menu-nav">
+          <ul class="menu-nav-list">
+            <li>
+              <a href="index.html">Home</a>
+            </li>
+            <li>
+              <a href="about-us.html">About Us</a>
+            </li>
+            <li>
+              <a href="famous.html">Famous</a>
+            </li>
+            <li>
+              <a href="form.html">Upload</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div>
+      <img class="hero" src="assets/images/narin-lifestyle.jpeg" alt="narin-beach">
+    </div>
+    <main>
+      <div class="intro">
+        <h2>To upload your favourite beach image please * image size not to exceed 20mb
+        </h2>
+        <p>
+          if not sure use the following link to reduce it then upload<a href="https://tinypng.com"><em>&nbsp;click here
+              to reduce image size.</em></a>
+        </p>
+      </div> <!-- upload form submission here-->
+      <form action="https://formdump.codeinstitute.net" method="POST" id="form">
+        <fieldset>
+          <legend>Your details</legend>
+          <div>
+            <label for="name-field">Name</label>
+            <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+          </div>
+          <div>
+            <label for="email-field">Email</label>
+            <input id="email-field" type="email" name="email" placeholder="Your email" required>
+          </div>
+          <div>
+            <label for="subject">Comment</label>
+            <input id="subject" type="text" name="subject"
+              placeholder="Fill your famous beach info and upload image please !!!" style="height:200px" required>
+          </div>
+          <p>"Choose File" button to upload a file: not to exceed 20mb</p>
+          <label for="filename">Upload</label>
+          <input type="file" id="myFile" name="filename" required>
+          <label for="county">Select County</label>
+          <select id="county" name="county" required>
+            <option value="donegal">Donegal</option>
+            <option value="sligo">Sligo</option>
+            <option value="cork">Cork</option>
+            <option value="galway">Galway</option>
+            <option value="mayo">Mayo</option>
+            <option value="limerick">Limerick</option>
+            <option value="waterford">Waterford</option>
+          </select>
+          <button type="submit">
+            <strong>Submit Post</strong>
+          </button>
+          <input type="reset" value="Reset Form">
+      </form>
+      </fieldset>
+    </main>
+    <br>
+    <hr>
+    <map id="map">
+      <h3><em>Click on the red dot for more Info !!!</em></h3>
+      <p>
+        <!-- map iframe here -->
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d589513.3932287958!2d-7.976407945312508!3d54.748553818322684!3m2!1i1024!2i768!4f13.1!2m1!1sdonegal%20beaches!5e0!3m2!1sen!2sie!4v1642607624224!5m2!1sen!2sie"
+          width="99.5%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      </p>
+      <br>
+      <hr>
+      <a id="move" href="#top"><i class="far fa-arrow-alt-circle-up fa-2x"></i>Top</a>
+      <footer>
+        <!-- footer content -->
+        <span>Follow Us &nbsp;</span>
+        <a href="https://www.facebook.com" target="_blank" rel="noopener"
+          aria-label="Find us on Facebook (link opens in a new tab)"><i
+            class="fab fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.instagram.com" target="_blank" rel="noopener"
+          aria-label="Find us on Instagram(link opens in a new tab)"><i
+            class="fab fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.twitter.com" target="_blank" rel="noopener"
+          aria-label="Find us on Twitter (link opens in a new tab)"><i
+            class="fab fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.youtube.com" target="_blank" rel="noopener"
+          aria-label="Find us on Youtube (link opens in a new tab)"><i
+            class="fab fa-youtube"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.pinterest.com" target="_blank" rel="noopener"
+          aria-label="Find us on Pinterest (link opens in a new tab)"><i class="fab fa-pinterest"></i></a>
+        <p>Copyright © Donegal Beaches 2022 All Rights Reserved</p>
+      </footer>
+  </body>
+
+</html>
