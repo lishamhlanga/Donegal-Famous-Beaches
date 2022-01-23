@@ -137,8 +137,11 @@ a:hover {
 img {
   width: 100%;
   height: auto;
+  margin-bottom: 3%;
+  border-radius: 4%;
   object-fit: cover;
   object-position: bottom;
+
 }
 
 .intro  p {
