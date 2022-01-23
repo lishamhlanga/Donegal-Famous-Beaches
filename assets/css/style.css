@@ -138,13 +138,13 @@ img {
   width: 100%;
   height: auto;
   margin-bottom: 3%;
-  border-radius: 4%;
+  border-radius: 0%;
   object-fit: cover;
   object-position: bottom;
 
 }
 .hero {
-  width: 99%;
+  /* width:99%; */
   height: fit-content;
 }
 
@@ -198,6 +198,14 @@ p {
 */
 
 /* for the form page css */
+@media screen and (max-width: 1200px) {
+  form {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    font-size: 100;
+  }
+}
 form {
   /* Center the form on the page */
   margin: 0 auto;
