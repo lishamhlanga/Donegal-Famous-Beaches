@@ -237,7 +237,7 @@ textarea {
   width: 99%;
   box-sizing: border-box;
   /* Match form field borders */
-  border: 1px solid #999;
+  border: 2px solid #ddd;
 }
 
 input:focus,
@@ -255,14 +255,14 @@ textarea {
 
 .button {
   /* buttons aligned with the text fields */
-  padding-left: 150px;
+  padding-left: 31%;  
   /* same size as the label elements */
 }
 
 button {
   /* This extra margin represent roughly the same space as the space
   between the labels and their text fields */
-  margin-left: .5em;
+  margin-left: .1em;
 }
 /* back to top */
 #move{
@@ -275,6 +275,10 @@ footer {
   text-align: center;
   background-color: #e0ffff;
   font-size: 14px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 /*  for larger to medium size screens*/
