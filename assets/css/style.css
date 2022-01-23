@@ -177,32 +177,34 @@ h1, h2, h3 {
   text-align: center;
   max-width: 25rem;
   min-width: 10rem;
-  
+
 }
 
 /* paragraphs:  */
 p {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 0.625em;
+  padding-right: 0.625em;
 }
 
-/* three equal columns that floats next to each other */
+/* three equal columns that floats next to each other 
 .column {
   float: left;
   width: 33.33%;
   padding: 2px;
 }
+*/
 
 /* for the form page css */
 form {
   /* Center the form on the page */
   margin: 0 auto;
-  width: 560px;
+  width: 95%;
   /* Form outline */
   padding: 1em;
-  border: 1px solid #ccc;
+  border: 2px solid #7ec1c1;
   border-radius: 1em;
   display: flex;
+  justify-content: center;
 }
 
 ul {
@@ -218,9 +220,12 @@ form li+li {
 label {
   /* Uniform size & alignment */
   display: inline-block;
-  width: 500px;
-  text-align: right;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  flex-wrap: wrap;
   display: flex;
+
 }
 
 input,
@@ -229,7 +234,7 @@ textarea {
   By default, textareas have a monospace font */
   font: 1em Lato;
   /* Uniform text field size */
-  width: 500px;
+  width: 99%;
   box-sizing: border-box;
   /* Match form field borders */
   border: 1px solid #999;
