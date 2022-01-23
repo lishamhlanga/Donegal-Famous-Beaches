@@ -143,11 +143,12 @@ img {
   object-position: bottom;
 
 }
+ /*
 .hero {
-  /* width:99%; 
+  width:99%; 
   height: fit-content;
   */
-}
+
 
 .intro  p {
   width: 100%;
