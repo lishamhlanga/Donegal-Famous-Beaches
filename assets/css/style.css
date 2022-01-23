@@ -15,6 +15,7 @@ body {
   font-size: 16px;
 }
 
+
 /* this font size will affect all elements ( except (h1-.h6) on the page)
 font-size: 16px;
 /* ========
@@ -29,13 +30,9 @@ h2 {
 }
 
 h3 {
-  font-size: px;
+  font-size: 18px;
 }
 
-/*
-The object-fit property fixes the image viewing on different screens and make the image look better
-object-fit: cover;
-object-position: bottom;
 */
 * {
   box-sizing: border-box;
@@ -80,7 +77,9 @@ a:hover {
 a:link {
   color: rgb(4, 83, 4);
 }
-
+a:visited {
+  color: #0000ff;
+}
 /**
 * Flex & layout things:
 * — Mobile first
@@ -113,10 +112,6 @@ a:link {
   flex-wrap: wrap;
 }
 
-/**
-* clean and distributed
-* and contents centered
-*/
 .menu-nav ul {
   margin: 1em 0.5em;
   text-align: center;
@@ -141,17 +136,13 @@ img {
   width: 100%;
   height: auto;
   margin-bottom: 3%;
-  /* border-radius: 0%; */
   object-fit: cover;
   object-position: bottom;
-
 }
- /*
 .hero {
-  width:99%; 
+  width:120%; 
   height: fit-content;
-  */
-
+}
 
 .intro  p {
   width: 100%;
@@ -166,7 +157,9 @@ h1, h2, h3 {
   background-color: #e0ffff;
   padding: 8px 0px;
 }
+main {
 
+}
 .columns {
   display: flex;
   flex-direction: row;
@@ -200,7 +193,7 @@ p {
     width: 100%;
     height: auto;
     margin: 0 auto;
-    font-size: 100;
+    font-size: 100%;
   }
 }
 form {
