@@ -11,7 +11,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Lato", sans-serif;
-  color: #696969;
+  color: #0a0a0a;
   font-size: 16px;
 }
 
@@ -21,15 +21,15 @@ font-size: 16px;
 Typography
    ======== */
 h1 {
-  font-size: 36px;
+  font-size: 24px;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 h3 {
-  font-size: 22px;
+  font-size: px;
 }
 
 /*
@@ -42,12 +42,12 @@ object-position: bottom;
 }
 
 .primary-header {
-  background: #fff;
+  background: rgb(255, 255, 255);
 }
 
 .beaches-logo {
   margin: 0 0 -5px;
-  width: 205px;
+  width: 255px;
   height: auto;
 }
 
@@ -250,7 +250,7 @@ textarea {
   width: 99%;
   box-sizing: border-box;
   /* Match form field borders */
-  border: 2px solid #ddd;
+  border: 2px solid rgb(39, 38, 38);
 }
 
 input:focus,
