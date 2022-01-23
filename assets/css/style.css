@@ -51,7 +51,7 @@ object-position: bottom;
   height: auto;
 }
 
-@media (max-width: 599px) {
+@media screen and (max-width: 599px) {
   .nav__toggle {
     display: block;
     position: absolute;
@@ -128,7 +128,7 @@ a:hover {
   padding: .5em .5em;
 }
 
-@media (min-width:960px) {
+@media screen and (min-width:960px) {
   .primary-header .menu-bar {
     justify-content: space-between;
   }
@@ -143,6 +143,10 @@ img {
   object-position: bottom;
 
 }
+.hero {
+  width: 99%;
+  height: fit-content;
+}
 
 .intro  p {
   width: 100%;
@@ -155,7 +159,6 @@ h1, h2, h3 {
 
 .mid {
   background-color: #e0ffff;
-  /* color: #696969; */
   padding: 8px 0px;
 }
 
@@ -295,9 +298,9 @@ footer {
   header {
     clear: left;
     float: left;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    line-height: 20px;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    line-height: 120%;
     font-size: 100%;
   }
 }
