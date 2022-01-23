@@ -75,7 +75,10 @@ object-position: bottom;
 }
 
 a:hover {
-  color: #c29b0c;
+  color: #7a620b;
+}
+a:link {
+  color: rgb(4, 83, 4);
 }
 
 /**
@@ -190,14 +193,6 @@ p {
   padding-left: 0.625em;
   padding-right: 0.625em;
 }
-
-/* three equal columns that floats next to each other 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 2px;
-}
-*/
 
 /* for the form page css */
 @media screen and (max-width: 1200px) {
