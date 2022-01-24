@@ -285,7 +285,7 @@ footer {
 /*  for larger to medium size screens*/
 @media screen and (max-width: 1200px) {
   header {
-    width: 90%;
+    width: 100%;
     height: auto;
     margin: 0 auto;
   }
