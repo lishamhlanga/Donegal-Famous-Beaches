@@ -135,13 +135,12 @@ a:visited {
 img {
   width: 100%;
   height: auto;
-  margin-bottom: 3%;
   object-fit: cover;
   object-position: bottom;
 }
 
 .hero {
-  width: 120%;
+  width: 99%;
   height: fit-content;
 }
 
@@ -158,8 +157,6 @@ h1, h2, h3 {
   background-color: #e0ffff;
   padding: 8px 0px;
 }
-
-main {}
 
 .columns {
   display: flex;
