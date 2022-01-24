@@ -11,7 +11,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Lato", sans-serif;
-  color: #0a0a0a;
+  color: rgb(31, 30, 30);
   font-size: 16px;
   box-sizing: border-box;
 }
@@ -71,12 +71,15 @@ h3 {
 a:hover {
   color: #7a620b;
 }
+
 a:link {
   color: rgb(4, 83, 4);
 }
+
 a:visited {
   color: #0000ff;
 }
+
 /**
 * Flex & layout things:
 * — Mobile first
@@ -136,12 +139,13 @@ img {
   object-fit: cover;
   object-position: bottom;
 }
+
 .hero {
-  width:120%; 
+  width: 120%;
   height: fit-content;
 }
 
-.intro  p {
+.intro p {
   width: 100%;
   text-align: center;
 }
@@ -154,9 +158,9 @@ h1, h2, h3 {
   background-color: #e0ffff;
   padding: 8px 0px;
 }
-main {
 
-}
+main {}
+
 .columns {
   display: flex;
   flex-direction: row;
@@ -193,6 +197,7 @@ p {
     font-size: 100%;
   }
 }
+
 form {
   /* Center the form on the page */
   margin: 0 auto;
@@ -253,7 +258,7 @@ textarea {
 
 .button {
   /* buttons aligned with the text fields */
-  padding-left: 31%;  
+  padding-left: 31%;
   /* same size as the label elements */
 }
 
@@ -262,8 +267,9 @@ button {
   between the labels and their text fields */
   margin-left: .1em;
 }
+
 /* back to top */
-#move{
+#move {
   float: right;
 }
 
