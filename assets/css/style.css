@@ -13,6 +13,7 @@ body {
   font-family: "Lato", sans-serif;
   color: #0a0a0a;
   font-size: 16px;
+  box-sizing: border-box;
 }
 
 
@@ -33,10 +34,6 @@ h3 {
   font-size: 18px;
 }
 
-*/
-* {
-  box-sizing: border-box;
-}
 
 .primary-header {
   background: rgb(255, 255, 255);
@@ -44,7 +41,7 @@ h3 {
 
 .beaches-logo {
   margin: 0 0 -5px;
-  width: 255px;
+  width: 205px;
   height: auto;
 }
 
@@ -236,7 +233,7 @@ textarea {
   font: 1em Lato;
   /* Uniform text field size */
   width: 99%;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   /* Match form field borders */
   border: 2px solid rgb(39, 38, 38);
 }
