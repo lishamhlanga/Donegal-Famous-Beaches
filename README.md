@@ -1,53 +1,58 @@
 This website is for everyone who love adventure, outgoing, family out, .Audience is all ages .
 
-To do this project I had 3 choices in mind a DIY website, Helpline Website, ad lastly Donegal Best Beaches. The reason I choose the Donegal Famous beaches i found that mant people were not aware of how beautiful the coastal drive is and housing beautiful oustanding baeches athat rank higher in the world. I love taking my family to the beach so one time i tried to find baeches in donegaland it wasnt an easy find. Thi website idea isto help people who love ourdoors, adventure, nature and families to be able to view and have info in regard to nearest lovely beaches.
+To do this project I had 3 choices in mind a DIY website, Helpline Website, ad lastly Donegal Best Beaches. The reason I choose the Donegal Famous beaches i found that many people were not aware of how beautiful the coastal drive is, housing beautiful outstanding beaches that rank higher in the world. I love taking my family to the beach so one time i tried to find beaches in Donegal and it wasn't an easy find. There are some hidden beaches which are not on the map very beautiful to visit.Thi website idea is geared to help people who love outdoors, adventure, nature and families to be able to view and have info in regard to nearest lovely beaches.
 
 ![Website Link ]<https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
 
 - __Navigation Bar__
 
   - The navigation bar which is fully responsive includes links to Home , Famous, About Us and the Upload page and all links are the same on every page enabling an easy flow when the user is on the website.
   - Added too to each pages is back top button link on the right bottom corner easy scroll back to the top of the page.
+  - The menu is clickable as well to bring back to the home page 
 
-![Nav Bar]https://github(.com)
+![Nav Bar]Media/navigation menu.png
 
 - __The Home Page__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes an image of a swimmer in the sea this brings a visual perception of what to expect in the website that swimming is included.
+  - Below the image there is 3 columns with images but smaller of equal, size, and length all having beautiful beaches with lovely surrounding . This catches the view to find out what are these beaches and where to find them.
+  - Underneath the images there are some text with information various topics about beaches , an exciting read.
+  - Each image bellow it has a read mor link of which is clickable but does not link anywhere , it's supposed to link to another page with more images and few text to read but this is a future update to implement with more pages being added.
+  - There is a horizontalline that separate the body from the footer and the footer has social links and copyright information. These are clickable as well and will take the user to the appropriate media channels.
+  - On the right hand bottom corner there is aback to top page to help the user scroll back to the top of the page, making it user friendly.
+  - The  colour I selected are warm colours easy to the user and complements the theme of the website . Blue for the logo , navigation (blue), hover{gold) mid body & footer colour ( light blue), text color (light black) , font (lato) 
 
-![Home Page](https://github.com/...)
 
-- __About Us__
+![Home Page](https://lishamhlanga.github.io/Donegal-Famous-Beaches/index.html)
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+- __About Us Page__
 
-![Club Ethos](https://github.com/..)
+  - The about us page introduces the user to the purpose of the website , who the owners are and their reasons to have the website  
+  - This gives the user a sense of being part of the website as it highlights what it's all about and purpose.
 
-- __Famous__
+![Club Ethos](https://lishamhlanga.github.io/Donegal-Famous-Beaches/about-us.html)
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+- __Famous Beaches Page__
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+  - This section will have all the beaches that are ranked highly in the world and in Ireland, currently it features 9 images with text describing the beaches and location .
+  - This section will be regulary updated with info in regard to the beaches, new beaches would be added , so regular update would be required.
+
+![Meetup Times](thttps://lishamhlanga.github.io/Donegal-Famous-Beaches/famous-beaches.html)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for Donegal Famous Beaches. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Upload__
+- __Upload Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
+  - This page is is for uploading any new information that the user has for example new beaches that they want to be featured in the Famous Beaches page.
+  - The user will be able to enter information on the form and upload an image of their beach and where it is located the county 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
