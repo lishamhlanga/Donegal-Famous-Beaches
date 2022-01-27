@@ -141,7 +141,7 @@ img {
 }
 
 .intro p {
-  width: 100%;
+  width: 90%;
   text-align: center;
 
 }
@@ -203,7 +203,6 @@ form {
   margin: 0 auto;
   width: 95%;
   /* Form outline */
-  padding: 1em;
   border: 2px solid #7ec1c1;
   border-radius: 1em;
   display: flex;
