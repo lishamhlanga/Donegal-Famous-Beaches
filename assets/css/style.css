@@ -97,7 +97,7 @@ img {
 
 /* change background colour and hover */
 .menu-nav a:hover {
-  background-color: #7a620b;
+  background-color: #d3ab19;
 }
 
 /* ( mobile first for tablets  everything below 600px will have the style above this */
@@ -115,7 +115,7 @@ img {
   }
 }
 
-/* Over 900px for desktop margins confon the left and margin to have space */
+/* Over 900px for desktop margins conform the left and margin to have space */
 @media screen and (min-width: 900px) {
   .header-menu {
     justify-content: space-between;
