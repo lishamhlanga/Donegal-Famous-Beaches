@@ -4,7 +4,7 @@ This website is for everyone who love adventure, outgoing, family out, .Audience
 
 To do this project I had 3 choices in mind a DIY website, Helpline Website, ad lastly Donegal Best Beaches. The reason I choose the Donegal Famous beaches i found that many people were not aware of how beautiful the coastal drive is, housing beautiful outstanding beaches that rank higher in the world. I love taking my family to the beach so one time i tried to find beaches in Donegal and it wasn't an easy find. There are some hidden beaches which are not on the map very beautiful to visit.Thi website idea is geared to help people who love outdoors, adventure, nature and families to be able to view and have info in regard to nearest lovely beaches.
 
-![Website Link ]<https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
+[Website Link ]<https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
 
 ## Features
 
@@ -33,7 +33,7 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
   - The about us page introduces the user to the purpose of the website , who the owners are and their reasons to have the website  
   - This gives the user a sense of being part of the website as it highlights what it's all about and purpose.
 
-![About Us](https://lishamhlanga.github.io/Donegal-Famous-Beaches/about-us.html)
+[About Us](https://lishamhlanga.github.io/Donegal-Famous-Beaches/about-us.html)
 
 - __Famous Beaches Page__
 
@@ -92,6 +92,7 @@ I also included required that will highlight ( fill out this field ) if the user
 The form is responsive as well and scales of different screen sizes .
 
 ![Test of Responsiveness](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/amI.responsivedesign.png)
+
 Site tested on the amI.responsive for responsiveness <http://ami.responsivedesign.is/?url=https://github.com/lishamhlanga/Donegal-Famous-Beaches/>
 
 ### Validator Testing
@@ -112,13 +113,16 @@ Site tested on the amI.responsive for responsiveness <http://ami.responsivedesig
   - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+[Deployment Github](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/69bee1dc104f514dcd2f9fdd0068a1b4dd7ab45d/Media/deployment-github.png>)
+
 
 The live link can be found here - <https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
 
 ## Credits
 ### Content
 
-- The text for the Home page was taken from <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
+- The text for the Home page I wrote that.
+The text for the Famous Beaches page <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
 - Instructions on how to implement flex box and Grid <https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Unsplash: Beautiful Free Images & Pictures <https://unsplash.com>
