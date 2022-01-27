@@ -52,15 +52,9 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
 - __Upload Page__
 
   - This page is is for uploading any new information that the user has for example new beaches that they want to be featured in the Famous Beaches page.
-  - The user will be able to enter information on the form and upload an image of their beach and where it is located the county
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+  - The user will be able to enter information on the form and upload an image of their beach and where it is locate eg county
 
 ![upload-form](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/form-for-upload.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 # Future Updates
 
 ### Features Left to Implement
@@ -71,13 +65,14 @@ In addition, you may also use this section to discuss plans for additional featu
   - 2. visitors can select different counties and view the best beaches of each county
   - 3. to add videos onto the page
   - 4. to add panoramic view like 360, where by they can view the beach like in real
-  - 5.
-  - 6.
+  - 5. Incorporate booking as well for holidays, like holiday homes etc
+  - 6. Have a payment option on the page for bookings .
 - More pages for read more from the clicked links to a more detailed page with more info
 - privacy page for beach visitors
 - links to helpline and phone numbers
 - page with real live update in terms of forecast and safety
-- Another feature idea
+- To add a gallery of images for each individual beach highlighted.
+- To include events that are happening in the community as well as community posts news.
 
 ## Testing
 
@@ -123,25 +118,29 @@ The live link can be found here - <https://lishamhlanga.github.io/Donegal-Famous
 ## Credits
 ### Content
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [YouTube Tutorial]<https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw>
+- The text for the Home page was taken from <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
+- Instructions on how to implement flex box and Grid <https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- Unsplash
-- Brian Kelly (licensed for reuse under this  Licence <https://creativecommons.org/licenses/by-sa/2.0/#_blank>)
-- <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
-
+- Unsplash: Beautiful Free Images & Pictures <https://unsplash.com>
+- Brian Kelly (licensed for reuse under this Licence <https://creativecommons.org/licenses/by-sa/2.0/#_blank>)
 - <https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw>
-
 - W3 schools website
-- Youtube creating a responsive website
-- Code Institute notes
+- Youtube creating a responsive navigation learnt a lot followed and created similar but mine customised different <https://www.youtube.com/watch?v=At4B7A4GOPg>
+- Code Institute notes ( The form of which I changed to suit my project )
+- Thanks to my tutor ( great support to solve all responsiveness issues)  and slack for all the info that was shared to make this project possible.
 
 ### Media
 
-- The photos used on the body columns of the pages 
+- The photos used on the body columns of the pages <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
   The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Unsplash
-- Brian Kelly (licensed for reuse under this  Licence <https://creativecommons.org/licenses/by-sa/2.0/#_blank>)
+- Brian Kelly licensed for reuse under this  Licence <https://creativecommons.org/licenses/by-sa/2.0/#_blank>)
+- © Kenneth Allen and licensed for reuse under this  Licence https://creativecommons.org/licenses/by-sa/2.0/#_blank
 - The images used for the gallery page were taken from this other open source site
 <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
-- The hero cover images on each page i designed them using Pixelmator 
+- The hero cover images on each page I designed them using Pixelmator 
+
+# Difficulties Encountered
+
+- Learning flex box and Grid was a bit of a challenge but with lots of practice I was able to fully understand the concepts.
+- Media queries as well but overall was able to implement the concept on my project them by using mobile first then scaling to desktop.
