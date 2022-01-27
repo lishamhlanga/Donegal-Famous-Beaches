@@ -115,7 +115,7 @@ img {
   }
 }
 
-/* Over 900px for desktop margins conform the left and margin to have space */
+/* Over 900px for desktop margins confon the left and margin to have space */
 @media screen and (min-width: 900px) {
   .header-menu {
     justify-content: space-between;
@@ -143,18 +143,22 @@ img {
 .intro p {
   width: 100%;
   text-align: center;
+
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   text-align: center;
+
 }
 
 .mid {
   background-color: #e0ffff;
-  padding: 8px 0px;
+  padding: 10px 10px;
   text-align: justify;
   text-justify: inter-word;
-  }
+}
 
 .columns {
   display: flex;
@@ -279,25 +283,4 @@ footer {
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
-}
-
-/*  for larger to medium size screens*/
-@media screen and (max-width: 1200px) {
-  header {
-    width: 100%;
-    height: auto;
-    margin: 0 auto;
-  }
-}
-
-/* for medium screen sizes 950px wide and down */
-@media screen and (max-width: 950px) {
-  header {
-    clear: left;
-    float: left;
-    margin-left: 10%;
-    margin-bottom: 5%;
-    line-height: 120%;
-    font-size: 100%;
-  }
 }
