@@ -80,13 +80,13 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 - Index.html  validated with not errors (https://validator.w3.org/nu/?doc=https%3A%2F%2Flishamhlanga.github.io%2FDonegal-Famous-Beaches%2Findex.html)
 
--About-Us validated with  
+-About-Us validated with  (https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Flishamhlanga.github.io%2FDonegal-Famous-Beaches%2Fabout-us.html)
 
 -Famous Article validated with no errors (https://validator.w3.org/nu/?doc=https%3A%2F%2Flishamhlanga.github.io%2FDonegal-Famous-Beaches%2Ffamous-beaches.html)
 
 -Form.html Upload validated with no errors (https://validator.w3.org/nu/?doc=https%3A%2F%2Flishamhlanga.github.io%2FDonegal-Famous-Beaches%2Fform.html)
   
-
+- CSS Validator ( https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flishamhlanga.github.io%2FDonegal-Famous-Beaches%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 ### Unfixed Bugs
 
 
