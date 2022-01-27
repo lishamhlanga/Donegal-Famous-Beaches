@@ -1,3 +1,4 @@
+# Website name - Donegal Famous Beaches
 This website is for everyone who love adventure, outgoing, family out, .Audience is all ages .
 
 To do this project I had 3 choices in mind a DIY website, Helpline Website, ad lastly Donegal Best Beaches. The reason I choose the Donegal Famous beaches i found that many people were not aware of how beautiful the coastal drive is, housing beautiful outstanding beaches that rank higher in the world. I love taking my family to the beach so one time i tried to find beaches in Donegal and it wasn't an easy find. There are some hidden beaches which are not on the map very beautiful to visit.Thi website idea is geared to help people who love outdoors, adventure, nature and families to be able to view and have info in regard to nearest lovely beaches.
@@ -5,7 +6,6 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
 ![Website Link ]<https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
 
 ## Features 
-
 
 - __Navigation Bar__
 
@@ -33,14 +33,14 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
   - The about us page introduces the user to the purpose of the website , who the owners are and their reasons to have the website  
   - This gives the user a sense of being part of the website as it highlights what it's all about and purpose.
 
-![Club Ethos](https://lishamhlanga.github.io/Donegal-Famous-Beaches/about-us.html)
+![About Us](https://lishamhlanga.github.io/Donegal-Famous-Beaches/about-us.html)
 
 - __Famous Beaches Page__
 
   - This section will have all the beaches that are ranked highly in the world and in Ireland, currently it features 9 images with text describing the beaches and location .
-  - This section will be regulary updated with info in regard to the beaches, new beaches would be added , so regular update would be required.
+  - This section will be frequently updated with info in regard to the beaches, new beaches would be added , so regular update would be required.
 
-![Meetup Times](thttps://lishamhlanga.github.io/Donegal-Famous-Beaches/famous-beaches.html)
+![Famous Beaches](thttps://lishamhlanga.github.io/Donegal-Famous-Beaches/famous-beaches.html)
 
 - __The Footer__ 
 
@@ -61,20 +61,44 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+# Future Updates
 
 ### Features Left to Implement
 
+- This website have still a lot to be implemented.
+- the famous page to have the following
+   -  1. categories of counties ,Donegal, Cork ,etc
+   -  2. visitors can select different counties and view the best beaches of each county
+   -  3. to add videos onto the page
+   -  4. to add panaromic view like 360, where by they can view the beach like in real
+   -  5.
+   -  6.
+- More pages for read more from the clicked links to a more detailed page with more info
+- privacy page for beach visitors
+- links to helpline and phone numbers
+- page with real live update in terms of forecast and safety
 - Another feature idea
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The site seems to work well , I have used the developer tools to check the site from different viewpoints mobile, tablet , desktop . The site scales well with the use of media queries that facilitate this.
+The navigation links which are present on every page makes it easier to navigate form one page to another and the back to top link on the bottom right footer position helps bring the user to the top of the screen.
+All the links have a hover link to help the user know which link they are and a color of gold is projected .
+The text used on the body is 16px seems to be right for both mobile and desktop with h1 and h2 highlighting the titles and sub titles.
+I have tested it with various browsers and it renders well, Firefeox, Mozilla, Microsoft Edge, Google Chrome.
+The images are all aligned horizontal and vertical and scale well on the mobile and desktop with the flex wrap kicking in to distribute the mobile experience of a single column beneath each other and scale as the surface view increase.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go or all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The footer houses social media links with icons that when clicked open a new tab.
+addition to the presentation the body area background is light blue,the colours I used are good for the eyes and does not strain the user.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+The upload form makes it easier for the user to submit their beaches of interest for publication ,they can right on the comment section and then upload the image. I included an link to reduce the image if it's too big , maximum image size being 20mb.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+I also included required that will highlight ( fill out this field ) if the user has left some areas unfilled and tries to submit the form.
+The form is responsive as well and scales of different screen sizes .
+
+
+
 
 
 ### Validator Testing 
@@ -92,8 +116,6 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
@@ -101,56 +123,31 @@ This section should describe the process you went through to deploy the project 
 
 The live link can be found here - https://lishamhlanga.github.io/Donegal-Famous-Beaches/
 
-## Credits 
-
 ### Content 
 
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Unsplash
+- Brian Kelly (licensed for reuse under this  Licence https://creativecommons.org/     licenses/by-sa/2.0/#_blank)
+- https://www.theirishroadtrip.com/best-beaches-in-donegal/
+- W3 schools website
+- Youtube creating a responsive website
+- Code Institute notes 
+
 
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
 
+## Credits 
 ## Other General Project Advice
 
 
-# Website name - Donegal Famous Beaches
 
-Website link
-
-# Structure
-
-# Technologies used
-
-#
 
 # Problems Encountered
 
-# Credit to the following:    
-Images- Unsplash
--    .Brian Kelly
-- licensed for reuse under this  Licence https://creativecommons.org/licenses/by-sa/2.0/#_blank
--
--   https://www.theirishroadtrip.com/best-beaches-in-donegal/
--   W3 schools website
--  Youtube creating a responsive website
-- Code Institute notes 
 
 
-# Future Updates
-
-- This website have still a lot to be implemented.
-- the famous page to have the following
-   -  1. categories of counties ,Donegal, Cork ,etc
-   -  2. visitors can select different counties and view the best beaches of each county
-   -  3. to add videos onto the page
-   -  4. to add panaromic view like 360, where by they can view the beach like in real
-   - 5
-   -  6
-- More pages for read more from the clicked links to a more detailed page with more info
-- privacy page for beach visitors
-- links to helpline and phone numbers
-- page with real live update in terms of forecast and safety
