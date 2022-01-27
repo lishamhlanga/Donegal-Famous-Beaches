@@ -152,7 +152,9 @@ h1, h2, h3 {
 .mid {
   background-color: #e0ffff;
   padding: 8px 0px;
-}
+  text-align: justify;
+  text-justify: inter-word;
+  }
 
 .columns {
   display: flex;
