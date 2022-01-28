@@ -14,7 +14,7 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
   - Added too to each pages is back top button link on the right bottom corner easy scroll back to the top of the page.
   - The menu is clickable as well to bring back to the home page
 
-![Nav Bar](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/69bee1dc104f514dcd2f9fdd0068a1b4dd7ab45d/Media/navigation-menu.png>)
+![Nav Bar](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/navigation-menu.png)
 
 - __The Home Page__
 
@@ -25,38 +25,32 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
   - There is a horizontalline that separate the body from the footer and the footer has social links and copyright information. These are clickable as well and will take the user to the appropriate media channels.
   - On the right hand bottom corner there is aback to top page to help the user scroll back to the top of the page, making it user friendly.
   - The  colour I selected are warm colours easy to the user and complements the theme of the website . Blue for the logo , navigation (blue), hover{gold) mid body & footer colour ( light blue), text color (light black) , font (lato)
-
 ![Home Page](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/hero-image.png)
 
 - __About Us Page__
 
   - The about us page introduces the user to the purpose of the website , who the owners are and their reasons to have the website  
   - This gives the user a sense of being part of the website as it highlights what it's all about and purpose.
-
 [About Us](https://lishamhlanga.github.io/Donegal-Famous-Beaches/about-us.html)
 
 - __Famous Beaches Page__
 
   - This section will have all the beaches that are ranked highly in the world and in Ireland, currently it features 9 images with text describing the beaches and location .
   - This section will be frequently updated with info in regard to the beaches, new beaches would be added , so regular update would be required.
-
 ![Famous Beaches](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/famous-content.png)
 
 - __The Footer__
 
   - The footer section includes links to the relevant social media sites for Donegal Famous Beaches. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media.
-
 ![Footer](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/footer.png)
 
 - __Upload Page__
 
   - This page is is for uploading any new information that the user has for example new beaches that they want to be featured in the Famous Beaches page.
   - The user will be able to enter information on the form and upload an image of their beach and where it is locate eg county
-
 ![upload-form](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/form-for-upload.png)
 # Future Updates
-
 ### Features Left to Implement
 
 - This website have still a lot to be implemented.
