@@ -2,7 +2,7 @@
 
 This website is for everyone who love adventure, outgoing, family out, .Audience is all ages .
 
-To do this project I had 3 choices in mind a DIY website, Helpline Website, ad lastly Donegal Best Beaches. The reason I choose the Donegal Famous beaches i found that many people were not aware of how beautiful the coastal drive is, housing beautiful outstanding beaches that rank higher in the world. I love taking my family to the beach so one time i tried to find beaches in Donegal and it wasn't an easy find. There are some hidden beaches which are not on the map very beautiful to visit.Thi website idea is geared to help people who love outdoors, adventure, nature and families to be able to view and have info in regard to nearest lovely beaches.
+To do this project I had 3 choices in mind a DIY website, Helpline Website, ad lastly Donegal Best Beaches. The reason I choose the Donegal Famous beaches i found that many people were not aware of how beautiful the coastal drive is, housing beautiful outstanding beaches that rank higher in the world. I love taking my family to the beach so one time i tried to find beaches in Donegal and it wasn't an easy find. There are some hidden beaches which are not on the map very beautiful to visit.This website idea is geared to help people who love outdoors, adventure, nature and families to be able to view and have info in regard to nearest lovely beaches.
 
 [Website Link ]<https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
 
@@ -20,13 +20,13 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
 
   - The landing includes an image of a swimmer in the sea this brings a visual perception of what to expect in the website that swimming is included.
   - Below the image there is 3 columns with images but smaller of equal, size, and length all having beautiful beaches with lovely surrounding . This catches the view to find out what are these beaches and where to find them.
-  - Underneath the images there are some text with information various topics about beaches , an exciting read.
-  - Each image bellow it has a read mor link of which is clickable but does not link anywhere , it's supposed to link to another page with more images and few text to read but this is a future update to implement with more pages being added.
-  - There is a horizontalline that separate the body from the footer and the footer has social links and copyright information. These are clickable as well and will take the user to the appropriate media channels.
-  - On the right hand bottom corner there is aback to top page to help the user scroll back to the top of the page, making it user friendly.
-  - The  colour I selected are warm colours easy to the user and complements the theme of the website . Blue for the logo , navigation (blue), hover{gold) mid body & footer colour ( light blue), text color (light black) , font (lato)
+  - Underneath the images there are some text with information on various topics about beaches , an exciting read.
+  - Each image below has a read more link which is clickable but does not link anywhere , it's supposed to link to another page with more images and few text to read but this is a future update to implement with more pages being added.
+  - There is a horizontal line that separate the body from the footer and the footer has social links and copyright information. These social media icons  are clickable as well and will direct the user to a new page appropriate to their media channel.
+  - On the right hand bottom corner there is a back to top page to help the user scroll back to the top of the page, making it user friendly.
+  - The  colours I selected are warm colours easy to the user and complement the theme of the website . Blue for the logo , navigation (blue), hover{gold) mid body & footer colour ( light blue), text color (light black) , font (lato)
 ![Home Page](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/hero-image.png)
-
+ 
 - __About Us Page__
 
   - The about us page introduces the user to the purpose of the website , who the owners are and their reasons to have the website  
@@ -35,8 +35,10 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
 
 - __Famous Beaches Page__
 
-  - This section will have all the beaches that are ranked highly in the world and in Ireland, currently it features 9 images with text describing the beaches and location .
-  - This section will be frequently updated with info in regard to the beaches, new beaches would be added , so regular update would be required.
+  - This section have all the beaches that are ranked highly in the world and in Ireland, currently it features 9 images with text describing each beach and location .
+  - This section will be frequently updated , new beaches would be added , so regular update would be required.
+  - There is more to be added here for future upgrades.
+  - The read more current don't have a direct link ,what it shows is that more info will be added for the user to browse to.
 ![Famous Beaches](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/famous-content.png)
 
 - __The Footer__
@@ -47,8 +49,9 @@ To do this project I had 3 choices in mind a DIY website, Helpline Website, ad l
 
 - __Upload Page__
 
-  - This page is is for uploading any new information that the user has for example new beaches that they want to be featured in the Famous Beaches page.
-  - The user will be able to enter information on the form and upload an image of their beach and where it is locate eg county
+  - This page is is for uploading any new information that the user has for example new beaches that the users want to be featured in the Famous Beaches page.
+  - The user will be able to enter information on the form and upload an image of their beach and where it is located eg county
+  - Once uploaded the admin of the site will approve , check everything and publish the info.
 ![upload-form](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/form-for-upload.png)
 # Future Updates
 ### Features Left to Implement
@@ -78,12 +81,13 @@ I have tested it with various browsers and it renders well, Firefeox, Mozilla, M
 The images are all aligned horizontal and vertical and scale well on the mobile and desktop with the flex wrap kicking in to distribute the mobile experience of a single column beneath each other and scale as the surface view increase.
 
 The footer houses social media links with icons that when clicked open a new tab.
-addition to the presentation the body area background is light blue,the colours I used are good for the eyes and does not strain the user.
+addition to presentation the body area background is light blue,the colours I used are good for the eyes and does not strain the user.
 
 The upload form makes it easier for the user to submit their beaches of interest for publication ,they can right on the comment section and then upload the image. I included an link to reduce the image if it's too big , maximum image size being 20mb.
 
-I also included required that will highlight ( fill out this field ) if the user has left some areas unfilled and tries to submit the form.
+I also included required on the form that will highlight ( fill out this field ) if the user has left some areas unfilled.
 The form is responsive as well and scales of different screen sizes .
+There is a google mapat the bootom of the upload page which users can click the red dot to display information about the beach , and where its located.
 
 ![Test of Responsiveness](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/amI.responsivedesign.png)
 
@@ -105,8 +109,9 @@ Site tested on the amI.responsive for responsiveness <http://ami.responsivedesig
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  - From the source section drop-down menu, select the Main Branch with /root as the default
+  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  - The link would be displayed .
 ![Deployment Github](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/deployment-github.png)
 
 
@@ -116,14 +121,14 @@ The live link can be found here - <https://lishamhlanga.github.io/Donegal-Famous
 ### Content
 
 - The text for the Home page I wrote that.
-The text for the Famous Beaches page <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
+- The text for the Famous Beaches page <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
 - Instructions on how to implement flex box and Grid <https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Unsplash: Beautiful Free Images & Pictures <https://unsplash.com>
 - Brian Kelly (licensed for reuse under this Licence <https://creativecommons.org/licenses/by-sa/2.0/#_blank>)
 - <https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw>
 - W3 schools website
-- Youtube creating a responsive navigation learnt a lot followed and created similar but mine customised different <https://www.youtube.com/watch?v=At4B7A4GOPg>
+- Youtube creating a responsive navigation learnt a lot followed and created similar but mine customised differently <https://www.youtube.com/watch?v=At4B7A4GOPg>
 - Code Institute notes ( The form of which I changed to suit my project )
 - Thanks to my tutor ( great support to solve all responsiveness issues)  and slack for all the info that was shared to make this project possible.
 
