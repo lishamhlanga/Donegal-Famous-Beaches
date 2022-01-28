@@ -120,7 +120,7 @@ The live link can be found here - <https://lishamhlanga.github.io/Donegal-Famous
 ## Credits
 ### Content
 
-- The text for the Home page I wrote that.
+- The text for the Home page , About page and Upload page I wrote that.
 - The text for the Famous Beaches page <https://www.theirishroadtrip.com/best-beaches-in-donegal/>
 - Instructions on how to implement flex box and Grid <https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
