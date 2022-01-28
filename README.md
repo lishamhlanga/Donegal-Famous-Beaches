@@ -130,7 +130,7 @@ The live link can be found here - <https://lishamhlanga.github.io/Donegal-Famous
 - W3 schools website
 - Youtube creating a responsive navigation learnt a lot followed and created similar but mine customised differently <https://www.youtube.com/watch?v=At4B7A4GOPg>
 - Code Institute notes ( The form of which I changed to suit my project )
-- Thanks to my tutor ( great support to solve all responsiveness issues)  and slack for all the info that was shared to make this project possible.
+- Thanks to my tutor ( great support and feedback )  and slack for all the info that was shared to make this project possible.
 
 ### Media
 
