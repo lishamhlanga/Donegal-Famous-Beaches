@@ -107,7 +107,7 @@ Site tested on the amI.responsive for responsiveness <http://ami.responsivedesig
   - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-[Deployment Github](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/69bee1dc104f514dcd2f9fdd0068a1b4dd7ab45d/Media/deployment-github.png>)
+[Deployment Github](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/deployment-github.png>)
 
 
 The live link can be found here - <https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
@@ -141,4 +141,4 @@ The text for the Famous Beaches page <https://www.theirishroadtrip.com/best-beac
 # Difficulties Encountered
 
 - Learning flex box and Grid was a bit of a challenge but with lots of practice I was able to fully understand the concepts.
-- Media queries as well but overall was able to implement the concept on my project them by using mobile first then scaling to desktop.
+- Media queries as well but overall was able to implement the concept on my project by using mobile first then scaling to desktop.
