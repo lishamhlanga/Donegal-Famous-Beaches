@@ -107,7 +107,7 @@ Site tested on the amI.responsive for responsiveness <http://ami.responsivedesig
   - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-![Deployment Github](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/deployment-github.png>)
+![Deployment Github](https://github.com/lishamhlanga/Donegal-Famous-Beaches/blob/main/Media/deployment-github.png)
 
 
 The live link can be found here - <https://lishamhlanga.github.io/Donegal-Famous-Beaches/>
